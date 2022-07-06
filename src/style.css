@@ -1,0 +1,123 @@
+/* search Movies */
+.searchmovies
+{
+    text-align: center;
+    background-color:#06283D;
+    color: white;
+    font-size:20px;
+    font-family:monospace;
+    padding:30px 0;
+    margin:0 40px;
+}
+
+.navbar_container
+{
+    margin:10px 0 ;
+}
+.searchBar
+{
+    margin-right: 0;
+}
+/* Movies */
+.movie-list
+{
+    background-color: #06283D;
+    padding:20px;
+
+}
+.movie_
+{
+    padding:20px;
+}
+.container11
+{
+    padding:0 50px;
+}
+
+.imagestyle
+{
+    border:1px solid white;
+    /* border-radius:30px; */
+}
+
+/* Search Button */
+.button1 {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#06283D;
+    border: 1px solid #06283D;
+    font-family:monospace;
+    /* border-radius: 10px; */
+    color: white;
+    padding: 0px 15px;
+    font-size:30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px 0;
+    cursor: pointer;
+}
+
+
+/* InputSearch */
+.inputSearch
+{
+    color:black;
+    /* background-color: black; */
+    border:1px solid #06283D;
+    /* border-radius: 10px; */
+    height:30px;
+    width:400px;
+    margin:10px 0;
+}
+
+.movie_title
+{
+    color: white;
+}
+
+
+/* Movie Details */
+.heading11
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#06283D;
+    border: 1px solid #06283D;
+    font-family:monospace;
+    /* border-radius: 10px; */
+    color: white;
+    padding: 20px 15px;
+    font-size:30px;
+    margin:20px 40px; 
+}
+
+.detailsCont
+{
+margin: 40px;
+}
+
+.detailPageStyle
+{
+    background-color: #06283D;
+    padding:20px;  
+    color: white;
+    margin:0 40px;
+}
+
+.imageDeatials
+{
+   padding:20px; 
+   border:1px solid white;
+}
+
+.titlepara
+{
+    text-decoration: none;
+    color: white;
+}
+.back
+{
+    text-decoration: none;
+    color: white; 
+    font-family:monospace; 
+    font-size:30px;
+}
